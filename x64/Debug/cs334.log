@@ -1,0 +1,28 @@
+﻿  scene.cpp
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(198,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(198,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(279,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(287,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(304,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(476,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(476,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(477,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(477,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(478,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(478,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(479,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(479,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(480,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(480,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(481,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(481,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(482,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(482,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(483,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(483,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(484,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(484,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(485,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(486,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(487,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  cs334.vcxproj -> C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Debug\CS334.exe

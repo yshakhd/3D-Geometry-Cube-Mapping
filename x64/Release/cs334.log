@@ -1,0 +1,112 @@
+﻿  scene.cpp
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(203,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(203,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(298,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(306,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(319,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(331,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(503,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(503,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(504,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(504,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(505,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(505,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(506,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(506,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(507,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(507,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(508,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(508,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(509,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(509,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(510,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(510,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(511,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(511,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(512,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(513,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\scene.cpp(514,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+     Creating library C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\CS334.lib and object C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\CS334.exp
+  Generating code
+  2 of 295 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+fltk.lib(Fl_Window.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl_Window.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(Fl.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(Fl_Group.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl_Group.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(Fl_Button.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl_Button.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(Fl_Slider.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl_Slider.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(Fl_Double_Window.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl_Double_Window.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(Fl_Return_Button.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl_Return_Button.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(Fl_grab.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl_grab.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(screen_xywh.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(screen_xywh.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(fl_labeltype.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(fl_labeltype.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(Fl_Widget.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl_Widget.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(Fl_Image.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl_Image.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(Fl_Bitmap.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl_Bitmap.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(Fl_Window_shape.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl_Window_shape.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(Fl_Window_hotspot.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl_Window_hotspot.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(Fl_get_system_colors.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl_get_system_colors.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(Fl_abort.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl_abort.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(fl_utf.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(fl_utf.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(Fl_lock.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl_lock.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(Fl_compose.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl_compose.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(Fl_Tooltip.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl_Tooltip.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(fl_color.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(fl_color.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(Fl_Preferences.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl_Preferences.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(fl_rect.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(fl_rect.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(Fl_Device.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl_Device.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(fl_read_image.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(fl_read_image.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(fl_font.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(fl_font.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(Fl_Window_fullscreen.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl_Window_fullscreen.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(fl_dnd.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(fl_dnd.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(fl_utf8.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(fl_utf8.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(fl_boxtype.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(fl_boxtype.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(Fl_Pixmap.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl_Pixmap.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(fl_line_style.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(fl_line_style.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(fl_vertex.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(fl_vertex.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(fl_curve.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(fl_curve.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(fl_arc.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(fl_arc.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(fl_arci.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(fl_arci.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(fl_draw_image.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(fl_draw_image.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(fl_shortcut.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(fl_shortcut.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(Fl_Input_.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl_Input_.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(Fl_Input.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl_Input.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(Fl_Menu.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl_Menu.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(Fl_Menu_add.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl_Menu_add.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(Fl_Menu_.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl_Menu_.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(Fl_Menu_Button.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl_Menu_Button.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(Fl_Repeat_Button.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl_Repeat_Button.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(Fl_Valuator.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl_Valuator.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(Fl_arg.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl_arg.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(Fl_Overlay_Window.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl_Overlay_Window.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(Fl_Paged_Device.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl_Paged_Device.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(Fl_Printer.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl_Printer.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(fl_draw.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(fl_draw.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(fl_draw_pixmap.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(fl_draw_pixmap.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(fl_plastic.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(fl_plastic.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(fl_gtk.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(fl_gtk.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(fl_gleam.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(fl_gleam.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(flstring.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(flstring.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(Fl_Tiled_Image.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl_Tiled_Image.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(fl_round_box.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(fl_round_box.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(vsnprintf.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(vsnprintf.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(Fl_Menu_Window.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl_Menu_Window.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(filename_match.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(filename_match.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(numericsort.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(numericsort.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(filename_list.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(filename_list.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(case.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(case.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(is_spacing.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(is_spacing.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(fl_cursor.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(fl_cursor.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(fl_ask.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(fl_ask.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(fl_symbols.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(fl_symbols.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(Fl_Single_Window.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl_Single_Window.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(scandir.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(scandir.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltk.lib(Fl_Box.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltk.lib(Fl_Box.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltkgl.lib(Fl_Gl_Window.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltkgl.lib(Fl_Gl_Window.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltkgl.lib(Fl_Gl_Choice.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltkgl.lib(Fl_Gl_Choice.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltkgl.lib(Fl_Gl_Device_Plugin.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltkgl.lib(Fl_Gl_Device_Plugin.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltkgl.lib(gl_draw.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltkgl.lib(gl_draw.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+fltkgl.lib(freeglut_teapot.obj) : warning LNK4099: PDB 'vc141.pdb' was not found with 'fltkgl.lib(freeglut_teapot.obj)' or at 'C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\vc141.pdb'; linking object as if no debug info
+  cs334.vcxproj -> C:\Users\yshak\Documents\ECE30834\CS334-2022Fall\CS334\x64\Release\CS334.exe
